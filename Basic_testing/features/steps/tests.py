@@ -1,5 +1,5 @@
 from behave import Given, When, Then
-from app import incrementor
+from Basic_testing.app import incrementor
 
 
 @Given("a new incrementor of size {stride}")
